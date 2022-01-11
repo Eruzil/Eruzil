@@ -7,7 +7,7 @@ Check my discord
 <p align="center">
   
 <a href="https://github.com/Eruzil">
-  <a href="https://discord.com/users/298207278375370763">
+  <a href="">
   <img src="https://lanyard-profile-readme.vercel.app/api/298207278375370763?hideTimestamp=true&idleMessage=Just%20chillin%27%20at%20the%20moment..." align="left" />
 </a>
   <div>
