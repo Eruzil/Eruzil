@@ -1,6 +1,5 @@
 # Hey I'm Eruzil
 
-Check my discord
 ---
 <p align="center">
   
