@@ -1,13 +1,10 @@
 # Hey I'm Eruzil
-[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/CFB855FaDT) 
-![](https://komarev.com/ghpvc/?username=Eruzil&label=Views&color=lightgrey&style=flat)
 
 Check my discord
 ---
 <p align="center">
   
 <a href="https://github.com/Eruzil">
-  <a href="">
   <img src="https://lanyard-profile-readme.vercel.app/api/298207278375370763?hideTimestamp=true&idleMessage=Just%20chillin%27%20at%20the%20moment..." align="left" />
 </a>
   <div>
